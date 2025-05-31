@@ -29,7 +29,7 @@ A framework-agnostic render performance profiler for frontend components.
 
 ## 💬 Connect
 
-- [LinkedIn](www.linkedin.com/in/dmitrii-titov-844148204)
+- [LinkedIn](in/dmitrii-titov-844148204)
 - [dev.to](https://dev.to/dimatitov)
 - [Email](mailto:titovdima95@gmail.com)
 
