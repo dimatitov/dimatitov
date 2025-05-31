@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Dima Titov
 
-<!--
-**dimatitov/dimatitov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend engineer and open source enthusiast focused on building tools for developers, contributing to the React ecosystem, and supporting the community through code and documentation.
 
-Here are some ideas to get you started:
+## 🚀 Open Source Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 [**vite-plugin-create**](https://github.com/dimatitov/vite-plugin-create)  
+A Vite plugin for generating boilerplate components, pages, and stores — fast, flexible, and customizable.
+
+🧩 [**vite-plugin-import-map**](https://github.com/dimatitov/vite-plugin-import-map)  
+An experimental plugin that brings native import maps support to Vite — with full dev server and build integration.
+
+🧪 **FeProfiler** *(in progress)*  
+A framework-agnostic render performance profiler for frontend components.
+
+## 🌍 Community Contributions
+
+- Contributor and reviewer for [**ru.react.dev**](https://github.com/reactjs/ru.react.dev) and [**react.dev**](https://github.com/reactjs/react.dev)
+- Actively translating and improving the official React documentation
+- Sharing insights and tools via [Habr](https://habr.com/ru/users/dimatitov/posts/) and [dev.to](https://dev.to/dimatitov)
+
+## 🛠️ Technologies
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+## 💬 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/dimatitov/)
+- [dev.to](https://dev.to/dimatitov)
+- [Email](mailto:your@email.com)
+
+---
+
+### ☕ Supporting Open Source
+
+If you find my tools or content helpful:
+
+- ⭐ Star the repositories you use
+- 🗣️ Share them with others
+- 🛠️ Contribute ideas or pull requests
+
+Your support helps grow and improve tools for the entire developer community 🙌
