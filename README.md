@@ -17,7 +17,7 @@ A framework-agnostic render performance profiler for frontend components.
 
 - Contributor and reviewer for [**ru.react.dev**](https://github.com/reactjs/ru.react.dev) and [**react.dev**](https://github.com/reactjs/react.dev)
 - Actively translating and improving the official React documentation
-- Sharing insights and tools via [Habr](https://habr.com/ru/users/dimatitov/posts/) and [dev.to](https://dev.to/dimatitov)
+- Sharing insights and tools via [Habr](https://habr.com/ru/users/dimatitov95/articles/) and [dev.to](https://dev.to/dimatitov)
 
 ## 🛠️ Technologies
 
