@@ -29,7 +29,7 @@ A framework-agnostic render performance profiler for frontend components.
 
 ## 🛠️ Badges
 
-https://www.credly.com/badges/ee52e8cf-e858-4d78-985e-660ced95d438/public_url
+![Open Source Software Development](./assets/OSS.png)
 
 ## 💬 Connect
 
