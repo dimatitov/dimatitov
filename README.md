@@ -29,7 +29,7 @@ A framework-agnostic render performance profiler for frontend components.
 
 ## 🛠️ Badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ee52e8cf-e858-4d78-985e-660ced95d438" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/ee52e8cf-e858-4d78-985e-660ced95d438/public_url
 
 ## 💬 Connect
 
