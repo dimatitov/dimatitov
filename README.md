@@ -27,6 +27,10 @@ A framework-agnostic render performance profiler for frontend components.
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+## 🛠️ Badges
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ee52e8cf-e858-4d78-985e-660ced95d438" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ## 💬 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/dmitrii-titov-844148204)
